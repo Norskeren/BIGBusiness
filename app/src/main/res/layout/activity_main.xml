@@ -7,10 +7,9 @@
     tools:context="shortcutmakers.smalbusiness.MainActivity">
 
     <RelativeLayout
-        android:layout_width="344dp"
+        android:layout_width="0dp"
         android:layout_height="495dp"
-        tools:layout_editor_absoluteY="0dp"
-        tools:layout_editor_absoluteX="8dp">
+        android:background="#CC42A4">
 
         <TextView
             android:id="@+id/title_alpha"
@@ -43,7 +42,7 @@
             android:layout_alignParentRight="true"
             android:layout_alignTop="@+id/image_alpha"
             android:layout_toEndOf="@+id/image_alpha"
-            android:layout_below="@+id/image_alpha"
+            android:layout_toRightOf="@+id/image_alpha"
             android:text=""
             android:textSize="30sp" />
 
