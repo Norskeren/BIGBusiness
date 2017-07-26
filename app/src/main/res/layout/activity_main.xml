@@ -9,7 +9,7 @@
     <RelativeLayout
         android:layout_width="0dp"
         android:layout_height="495dp"
-       >
+        android:background="#CC42A4">
 
         <TextView
             android:id="@+id/title_alpha"
