@@ -15,7 +15,7 @@
             android:id="@+id/title_alpha"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#ccddff"
+            android:background="#00FFFF"
             android:fontFamily="serif"
             android:text="Alpha productions!"
             android:textColor="@android:color/black"
